@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="Chapter-2-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/../finalhw.iml" filepath="$PROJECT_DIR$/../finalhw.iml" group="finalhw" />
+      <module fileurl="file://$PROJECT_DIR$/../app/finalhw-app.iml" filepath="$PROJECT_DIR$/../app/finalhw-app.iml" group="finalhw/app" />
+      <module fileurl="file://$PROJECT_DIR$/homework.iml" filepath="$PROJECT_DIR$/homework.iml" group="finalhw/homework" />
+    </modules>
+  </component>
+</project>
